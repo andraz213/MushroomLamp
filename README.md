@@ -19,11 +19,12 @@ The lamp is turned off by turning the brightness down.
 
 Mushrooms and the base were modeled in Fusion 360. The model is available on: https://a360.co/3hpJmct
 
-![Render](/assets/render1.png)
-
-
 
 All parts were printed on a Creality ender3V2 with 0.25mm layer height and 33% gyroid infill at 205C out of ecoPLA white filament. Then it was sanded down with 220 grit sandpaper and glued with Loctite glue.
+
+
+![Render](/assets/render1.png)
+
 
 ![Photo](/assets/photo1.jpg)
 
