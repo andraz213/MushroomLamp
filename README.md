@@ -37,5 +37,6 @@ The stars of the show are two Neopixel rings. The bigger one features 12 chips, 
 I have implemented a few power-saving features. The MCU is never turned off and is only put to sleep. Neopixels also use each 1mA even when they're not used, so I used an IRFZ44N MOSFET to cut the power to them when the unit is off. Additionally, I have disabled all wifi functionally to further reduce consumption.
 
 
+![Circuit](/assets/circuit.png)
 
 
