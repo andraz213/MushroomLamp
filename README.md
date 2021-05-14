@@ -20,7 +20,7 @@ The lamp is turned off by turning the brightness down.
 Mushrooms and the base were modeled in Fusion 360. The model is available on: https://a360.co/3hpJmct
 
 
-![Render](/assets/render1.png){: width=50% }
+![Render]<img src="https://raw.githubusercontent.com/andraz213/MushroomLamp/main/assets/render1.png" width="400" height="790">
 
 
 
