@@ -20,13 +20,13 @@ The lamp is turned off by turning the brightness down.
 Mushrooms and the base were modeled in Fusion 360. The model is available on: https://a360.co/3hpJmct
 
 
-![Render](/assets/render1.png){ width=50% }
+![Render](/assets/render1.png){: width=50% }
 
 
 
 All parts were printed on a Creality ender3V2 with 0.25mm layer height and 33% gyroid infill at 205C out of ecoPLA white filament. Then it was sanded down with 220 grit sandpaper and glued with Loctite glue.
 
-![Final Product](/assets/photo1.jpg){ width=50% }
+![Final Product](/assets/photo1.jpg){: width=50% }
 
 
 
@@ -37,6 +37,6 @@ The stars of the show are two Neopixel rings. The bigger one features 12 chips, 
 I have implemented a few power-saving features. The MCU is never turned off and is only put to sleep. Neopixels also use each 1mA even when they're not used, so I used an IRFZ44N MOSFET to cut the power to them when the unit is off. Additionally, I have disabled all wifi functionally to further reduce consumption.
 
 
-![Circuit](/assets/circuit.png){ width=50% }
+![Circuit](/assets/circuit.png){: width=50% }
 
 
